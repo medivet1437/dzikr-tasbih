@@ -13,7 +13,7 @@ jobs:
 
       - name: Extract project ZIP
         run: |
-          unzip -o DzikrTasbih_v1.zip -d project
+          unzip -o DzikrTasbih_v3_penyimpanan_dan_teks_dzikir.zip -d project
           cd project
           ls -la
 
