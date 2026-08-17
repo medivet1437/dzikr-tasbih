@@ -1,4 +1,4 @@
-name: Build Dzikr Tasbih APK
+name: Dzikr-Tasbih-V3-APK
 
 on:
   workflow_dispatch:
